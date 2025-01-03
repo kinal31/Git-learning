@@ -1,0 +1,1 @@
+This is a cover file for the `xyz` library. It is used to provide a way to include the library in a project without having to include the entire library in the project's source code.
