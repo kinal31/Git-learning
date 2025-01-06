@@ -1,3 +1,6 @@
 Kinal Kotheeya
 React Js Developer
-React Native git a
+React Native
+Next JS 
+Talwind CSS
+Boostrap
